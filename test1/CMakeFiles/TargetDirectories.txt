@@ -1,0 +1,3 @@
+/home/mariya/Projects/test1/CMakeFiles/test1.dir
+/home/mariya/Projects/test1/CMakeFiles/edit_cache.dir
+/home/mariya/Projects/test1/CMakeFiles/rebuild_cache.dir
