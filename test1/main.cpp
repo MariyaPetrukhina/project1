@@ -1,5 +1,4 @@
 #include <iostream>
-#include "foo.hpp"
 using namespace std;
 
 
